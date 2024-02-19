@@ -1,0 +1,2 @@
+Voxel size in meters: [0.001 0.001 0.001]
+Marker position: [139 211 119]
