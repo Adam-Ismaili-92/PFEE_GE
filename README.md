@@ -10,6 +10,8 @@ Notre projet, en collaboration avec l'entreprise "GE HEALTHCARE", consiste en la
 
 Pour cela, nous avons réalisé une segmentation par classe, un calcul de densités/coefficients d'attenuation par voxel, et un calcul de positions par volume.
 
+Le dataset est trouvable sur le site [wiki.cancerimagingarchive.net](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080890).
+
 Le notebook contient l'essentiel de la pipeline du projet.
 
 Il présente les fonctions suivantes : 
